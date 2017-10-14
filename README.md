@@ -16,3 +16,6 @@ Users can choose to same their images into a gallery. The gallery is categorized
 https://mooodie.herokuapp.com/
 
 ![Image 1](public/assets/images/Capture1.PNG)
+![Image 1](public/assets/images/Capture2.PNG)
+![Image 1](public/assets/images/Capture3.PNG)
+![Image 1](public/assets/images/Capture4.PNG)
